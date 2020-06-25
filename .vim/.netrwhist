@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com/boku/connector/mtnzadcbapi/server'
+let g:netrw_dirhist_1='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com/boku/connector/mtnzadcbapi/server/internal'
+let g:netrw_dirhist_0='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com/boku/connector/mtnzadcbapi/server'
+let g:netrw_dirhist_9='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com/boku/connector/mtnzadcbapi'
+let g:netrw_dirhist_8='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com/boku/connector'
+let g:netrw_dirhist_7='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com/boku'
+let g:netrw_dirhist_6='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java/com'
+let g:netrw_dirhist_5='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main/java'
+let g:netrw_dirhist_4='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src/main'
+let g:netrw_dirhist_3='/Users/salmansiddiqui/BOKU_REPO/mtnzadcbapi-connector/mtnzadcbapi-connector-server/src'
