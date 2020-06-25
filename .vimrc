@@ -91,3 +91,6 @@ nnoremap <Leader>f :NERDTreeFind<CR>
 
 " ctrl p setup
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+"gruvbox 
+autocmd vimenter * colorscheme gruvbox
